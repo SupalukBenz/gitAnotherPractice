@@ -21,3 +21,4 @@
     ```
 1. Implement unittest
 1. Use Agile Development Process
+1. Clean code
